@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Cartoon_Carnival
+# Subscribe Telegram Channel For Amazing Bot @Cartoon_Carnival
+# Ask Doubt on telegram @Jack_X_GigaChad
 
 import logging
 import logging.config
@@ -78,7 +78,7 @@ class TechVJXBot(Client):
                 yield message
                 current += 1
       
-TechVJBot = TechVJXBot()
+Cartoon_CarnivalBot = Cartoon_CarnivalXBot()
 
 multi_clients = {}
 work_loads = {}
