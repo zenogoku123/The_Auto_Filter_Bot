@@ -6,8 +6,8 @@ import asyncio
 import logging
 from info import *
 from pyrogram import Client
-from TechVJ.util.config_parser import TokenParser
-from TechVJ.bot import multi_clients, work_loads, TechVJBot
+from CartoonCarnival.util.config_parser import TokenParser
+from CartoonCarnival.bot import multi_clients, work_loads, CartoonCarnivalBot
 
 
 async def initialize_clients():
