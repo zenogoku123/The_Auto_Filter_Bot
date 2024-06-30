@@ -78,7 +78,7 @@ class TechVJXBot(Client):
                 yield message
                 current += 1
       
-Cartoon_CarnivalBot = Cartoon_CarnivalXBot()
+CartoonCarnivalBot = CartoonCarnivalXBot()
 
 multi_clients = {}
 work_loads = {}
